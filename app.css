@@ -147,7 +147,7 @@ span:nth-child(9){
     align-items: center;
 }
 .mainimage {
-    background-image: url(Assets/mainimg.png);
+    background-image: url(https://github.com/jibrix01/bio/blob/main/Assets/mainimg.png);
     z-index: 2;
     position: absolute;
     background-size: 600px 600px;
